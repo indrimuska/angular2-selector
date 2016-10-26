@@ -1,0 +1,29 @@
+{
+  "name": "angular2-selector",
+  "version": "0.0.1",
+  "authors": [
+    "Indri Muska <indrimuska@gmail.com>"
+  ],
+  "description": "A native AngularJS 2 directive that transform a simple `<select>` box into a full html select with typeahead.",
+  "main": [
+    "./dist/angular2-selector.js",
+    "./dist/angular2-selector.css"
+  ],
+  "keywords": [
+    "select",
+    "angular2",
+    "selector",
+    "directive",
+    "typeahead"
+  ],
+  "license": "MIT",
+  "homepage": "http://indrimuska.github.io/angular2-selector",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {}
+}
